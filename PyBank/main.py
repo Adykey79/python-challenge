@@ -13,8 +13,6 @@ with open(csv_path, encoding="UTF-8") as csv_file:
 
     # Get CSV header
     header = next(reader)
-    # Test Header
-    # print(header)
 
     pl = []
     months = []
