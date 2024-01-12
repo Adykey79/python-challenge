@@ -66,7 +66,6 @@ with open(csv_path, encoding="UTF-8") as csv_file:
     print(f"Greatest Decrease in Profits: {str(months[rev_change.index(min(rev_change)) + 1])} {greatest_dec}")
 
     # Create the output text file
-
     # Specify the file name and directory path
     file_name = "PyBank-Output.txt"
     file_path = os.path.join('analysis', file_name)
