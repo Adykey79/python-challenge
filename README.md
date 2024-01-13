@@ -3,9 +3,9 @@
 
 # PyBank's Financial Analysis:
 
-I created a Python script to analyze a company's financial records in this challenge. Here I have a financial dataset called budget_data.csv, which consists of "date" and "profit/loss" columns.
+<p>I created a Python script to analyze a company's financial records in this challenge. Here I have a financial dataset called budget_data.csv, which consists of "date" and "profit/loss" columns.</p>
 
-Here I created a Python script that parses the records to calculate each of the following values:
+<p>Here I created a Python script that parses the records to calculate each of the following values:</p>
 
 - The total number of months in the dataset
 
@@ -19,7 +19,7 @@ Here I created a Python script that parses the records to calculate each of the 
   
 ### Please refer to the screenshots placed in the images folder for more understanding.
 
-
+<p></p>
 
 ![Vote_counting](https://github.com/Adykey79/python-challenge/assets/149746353/853998df-4a69-4bea-91e7-fe294674f159)
 
