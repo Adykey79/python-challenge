@@ -1,6 +1,6 @@
 ![revenue-per-lead](https://github.com/Adykey79/python-challenge/assets/149746353/4bc2b3ed-d980-4635-b4b3-a183cb0d4d1b)
 
-
+<br>
 # PyBank's Financial Analysis:
 
 <p>I created a Python script to analyze a company's financial records in this challenge. Here I have a financial dataset called budget_data.csv, which consists of "date" and "profit/loss" columns.</p>
@@ -19,11 +19,12 @@
   
 ### Please refer to the screenshots placed in the images folder for more understanding.
 
-<p></p>
+<be>
+<br>
 
 ![Vote_counting](https://github.com/Adykey79/python-challenge/assets/149746353/853998df-4a69-4bea-91e7-fe294674f159)
 
-
+<br>
  # PyPoll's Modernized Vote-Counting Process:
  
 In this challenge, by creating a Python script, I analyzed a set of survey data named election_data.csv, which consists of three columns "Voter ID", "County" and "Candidate", and I calculated each of the following values:
